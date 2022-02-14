@@ -13,3 +13,4 @@ This is the GitHub repository where I save copies of the katas I've completed on
 ## List of Challenges
 
 ### C#:
+* [Needle in a Haystack](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/CountingSheep.cs)
