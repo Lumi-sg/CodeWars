@@ -5,7 +5,6 @@
 //After your function finds the needle it should return a message (as a string) that says:
 
 //"found the needle at position " plus the index it found the needle, so:
-//
 
 using System;
 public class Kata
