@@ -13,4 +13,6 @@ This is the GitHub repository where I save copies of the katas I've completed on
 ## List of Challenges
 
 ### C#:
-* [Needle in a Haystack](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/CountingSheep.cs)
+* [Counting Sheep](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/CountingSheep.cs) - 8 Kyu
+* [Needle in a Haystack](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/NeedleHaystack.cs) - 8 Kyu
+* [Return a Negative Number](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/ReturnNegative.cs) - 8 Kyu
