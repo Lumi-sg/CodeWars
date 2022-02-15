@@ -12,9 +12,11 @@ This is the GitHub repository where I save copies of the katas I've completed on
 
 ## List of Challenges
 
-### C#:
-* [Highest and Lowest of a string](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/7%20Kyu/HighestandLowest.cs) - 7 Kyu
-
-* [Counting Sheep](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/CountingSheep.cs) - 8 Kyu
-* [Needle in a Haystack](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/NeedleHaystack.cs) - 8 Kyu
-* [Return a Negative Number](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/ReturnNegative.cs) - 8 Kyu
+## C#:
+### 7 Kyu:
+* [Highest and Lowest of a string](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/7%20Kyu/HighestandLowest.cs)
+* [Exes and Ohs](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/7%20Kyu/Exes%20and%20Ohs.cs)
+### 8 Kyu:
+* [Counting Sheep](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/CountingSheep.cs)
+* [Needle in a Haystack](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/NeedleHaystack.cs)
+* [Return a Negative Number](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/ReturnNegative.cs)
