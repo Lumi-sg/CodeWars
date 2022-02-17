@@ -20,3 +20,4 @@ This is the GitHub repository where I save copies of the katas I've completed on
 * [Counting Sheep](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/CountingSheep.cs)
 * [Needle in a Haystack](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/NeedleHaystack.cs)
 * [Return a Negative Number](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/ReturnNegative.cs)
+* [Returning Strings](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/Returning%20Strings.cs)
