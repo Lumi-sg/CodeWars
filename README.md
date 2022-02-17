@@ -22,3 +22,4 @@ This is the GitHub repository where I save copies of the katas I've completed on
 * [Return a Negative Number](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/ReturnNegative.cs)
 * [Returning Strings](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/Returning%20Strings.cs)
 * [Sum of Positive](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/Sum%20of%20positive.cs)
+* [Square(n)Sum](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/Square(n)Sum.cs)
