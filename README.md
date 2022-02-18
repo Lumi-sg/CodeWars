@@ -26,3 +26,4 @@ This is the GitHub repository where I save copies of the katas I've completed on
 * [Remove String Spaces](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/Remove%20String%20Spaces.cs)
 * [Remove First and Last Character](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/Remove%20First%20and%20Last%20Character.cs)
 * [Fake Binary](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/Fake%20Binary.cs)
+* [Find Smallest Int in Array](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/Find%20Smallest%20Int%20in%20Array.cs)
