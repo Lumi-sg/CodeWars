@@ -29,3 +29,4 @@ This is the GitHub repository where I save copies of the katas I've completed on
 * [Find Smallest Int in Array](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/Find%20Smallest%20Int%20in%20Array.cs)
 * [String Repeat](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/String%20Repeat.cs)
 * [Even or Odd](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/Even%20or%20Odd.cs)
+* [Convert a String to a Number](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/Convert%20a%20String%20to%20a%20Number.cs)
