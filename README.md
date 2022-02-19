@@ -16,6 +16,7 @@ This is the GitHub repository where I save copies of the katas I've completed on
 ### 7 Kyu:
 * [Highest and Lowest of a string](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/7%20Kyu/HighestandLowest.cs)
 * [Exes and Ohs](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/7%20Kyu/Exes%20and%20Ohs.cs)
+* [String Ends with?](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/7%20Kyu/String%20ends%20with%3F.cs)
 ### 8 Kyu:
 * [Counting Sheep](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/CountingSheep.cs)
 * [Needle in a Haystack](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/NeedleHaystack.cs)
