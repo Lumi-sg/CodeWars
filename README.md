@@ -19,6 +19,7 @@ This is the GitHub repository where I save copies of the katas I've completed on
 * [String Ends with?](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/7%20Kyu/String%20ends%20with%3F.cs)
 * [Vowel Counter](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/7%20Kyu/Vowel%20Counter.cs)
 * [Casing Strings](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/7%20Kyu/Casing%20Strings.cs)
+* [Friend or Foe](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/7%20Kyu/Friend%20or%20Foe%3F.cs)
 ### 8 Kyu:
 * [Counting Sheep](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/CountingSheep.cs)
 * [Needle in a Haystack](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/NeedleHaystack.cs)
