@@ -11,7 +11,6 @@ public class ListFilterer
         var intList = new List<int>();
         foreach (var item in listOfItems)
         {
-            item.GetType();
             if (item is int)
             {
                 intList.Add((int)item);
