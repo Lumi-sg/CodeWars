@@ -13,6 +13,9 @@ This is the GitHub repository where I save copies of the katas I've completed on
 ## List of Challenges
 
 ## C#:
+
+### 6 Kyu:
+* [Sort the Odd](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/6%20Kyu/Sort%20the%20Odd.cs)
 ### 7 Kyu:
 * [Highest and Lowest of a string](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/7%20Kyu/HighestandLowest.cs)
 * [Exes and Ohs](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/7%20Kyu/Exes%20and%20Ohs.cs)
