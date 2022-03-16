@@ -26,6 +26,7 @@ This is the GitHub repository where I save copies of the katas I've completed on
 * [List Filtering](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/7%20Kyu/List%20Filtering.cs)
 * [Is This a Triangle?](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/7%20Kyu/Is%20This%20a%20Triangle.cs)
 * [String Drills: Repeater](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/7%20Kyu/String%20Drills:%20Repeater.cs)
+* [Isograms](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/7%20Kyu/Isograms.cs)
 ### 8 Kyu:
 * [Counting Sheep](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/CountingSheep.cs)
 * [Needle in a Haystack](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/NeedleHaystack.cs)
