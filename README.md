@@ -28,6 +28,7 @@ This is the GitHub repository where I save copies of the katas I've completed on
 * [String Drills: Repeater](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/7%20Kyu/String%20Drills:%20Repeater.cs)
 * [Isograms](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/7%20Kyu/Isograms.cs)
 * [Sort Numbers](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/7%20Kyu/Sort%20Numbers.cs)
+* [Alternate Case](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/7%20Kyu/Alternate%20Case.cs)
 ### 8 Kyu:
 * [Counting Sheep](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/CountingSheep.cs)
 * [Needle in a Haystack](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/NeedleHaystack.cs)
