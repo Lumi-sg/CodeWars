@@ -11,11 +11,8 @@ public class Solution {
             {
                 return true;
             }
-
             hashSet.Add(n);
-            
         }
-
         return false;
     }
 }
