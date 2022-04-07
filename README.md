@@ -64,16 +64,22 @@ Profile:
 ## C#:
 <details>
 <summary>0-50:</summary>
+<ul>
+<li><a href="https://github.com/Lumi-sg/CodeWars-LeetCode/blob/main/C%23/LeetCode/1.%20Two%20Sum.cs">1. Two Sum</a></li>
 </details>
+
 <details>
 <summary>51-100:</summary>
 </details>
+
 <details>
 <summary>101-150:</summary>
 </details>
+
 <details>
 <summary>151-200:</summary>
 </details>
+
 <details>
 <summary>201-250:</summary>
   <ul>
