@@ -1,16 +1,16 @@
 # CodeWars
 
-This is the GitHub repository where I save copies of the katas I've completed on
+These are saved copies of the katas I've completed on
 [codewars.com](https://www.codewars.com/).
+
+Profile:
 
 [![Profile badge](https://www.codewars.com/users/Lumi_s/badges/large)](https://www.codewars.com/users/Lumi_s)
 
-
-## Leveling System
-
-![CodeWars levels](https://i.imgur.com/Vm77XMv.png)
-
-## List of Challenges
+<details>
+<summary>Leveling System</summary>
+<img src="https://i.imgur.com/Vm77XMv.png">
+</details>
 
 ## C#:
 <details>
@@ -59,3 +59,28 @@ This is the GitHub repository where I save copies of the katas I've completed on
 </ul>
   </details>
 
+# Leetcode
+[Profile](https://leetcode.com/Lumi-sg/)
+## C#:
+<details>
+<summary>0-50:</summary>
+</details>
+<details>
+<summary>51-100:</summary>
+</details>
+<details>
+<summary>101-150:</summary>
+</details>
+<details>
+<summary>151-200:</summary>
+</details>
+<details>
+<summary>201-250:</summary>
+  <ul>
+  <li><a href="https://github.com/Lumi-sg/CodeWars/blob/main/C%23/LeetCode/217.%20Contains%20Duplicate.cs">217. Contains Duplicate</a></li>
+  <li><a href="https://github.com/Lumi-sg/CodeWars/blob/main/C%23/LeetCode/242.%20Valid%20Anagram.cs">242. Valid Anagram</a></li>
+  </ul>
+</details>
+<details>
+<summary>251-300:</summary>
+</details>
