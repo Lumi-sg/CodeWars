@@ -74,6 +74,8 @@ Profile:
 
 <details>
 <summary>101-150:</summary>
+  <ul>
+<li><a href=https://github.com/Lumi-sg/CodeWars-LeetCode/tree/main/C%23/LeetCode>125. Valid Palindrome</a></li>
 </details>
 
 <details>
