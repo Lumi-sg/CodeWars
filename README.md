@@ -13,35 +13,49 @@ This is the GitHub repository where I save copies of the katas I've completed on
 ## List of Challenges
 
 ## C#:
+<details>
+<summary>6 Kyu:</summary>
+  <ul><li><a href="https://github.com/Lumi-sg/CodeWars/blob/main/C%23/6%20Kyu/Sort%20the%20Odd.cs">Sort The Odd</a></li>
+  </ul>
+</details>
 
-### 6 Kyu:
-* [Sort the Odd](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/6%20Kyu/Sort%20the%20Odd.cs)
-### 7 Kyu:
-* [Highest and Lowest of a string](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/7%20Kyu/HighestandLowest.cs)
-* [Exes and Ohs](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/7%20Kyu/Exes%20and%20Ohs.cs)
-* [String Ends with?](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/7%20Kyu/String%20ends%20with%3F.cs)
-* [Vowel Counter](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/7%20Kyu/Vowel%20Counter.cs)
-* [Casing Strings](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/7%20Kyu/Casing%20Strings.cs)
-* [Friend or Foe](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/7%20Kyu/Friend%20or%20Foe%3F.cs)
-* [List Filtering](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/7%20Kyu/List%20Filtering.cs)
-* [Is This a Triangle?](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/7%20Kyu/Is%20This%20a%20Triangle.cs)
-* [String Drills: Repeater](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/7%20Kyu/String%20Drills:%20Repeater.cs)
-* [Isograms](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/7%20Kyu/Isograms.cs)
-* [Sort Numbers](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/7%20Kyu/Sort%20Numbers.cs)
-* [Alternate Case](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/7%20Kyu/Alternate%20Case.cs)
-* [Bumps in the Road](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/7%20Kyu/Bumps%20in%20the%20Road.cs)
-### 8 Kyu:
-* [Counting Sheep](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/CountingSheep.cs)
-* [Needle in a Haystack](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/NeedleHaystack.cs)
-* [Return a Negative Number](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/ReturnNegative.cs)
-* [Returning Strings](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/Returning%20Strings.cs)
-* [Sum of Positive](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/Sum%20of%20positive.cs)
-* [Square(n)Sum](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/Square(n)Sum.cs)
-* [Remove String Spaces](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/Remove%20String%20Spaces.cs)
-* [Remove First and Last Character](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/Remove%20First%20and%20Last%20Character.cs)
-* [Fake Binary](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/Fake%20Binary.cs)
-* [Find Smallest Int in Array](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/Find%20Smallest%20Int%20in%20Array.cs)
-* [String Repeat](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/String%20Repeat.cs)
-* [Even or Odd](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/Even%20or%20Odd.cs)
-* [Convert a String to a Number](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/Convert%20a%20String%20to%20a%20Number.cs)
-* [Lost Without a Map](https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/Lost%20Without%20a%20Map.cs)
+<details>
+<summary>7 Kyu:</summary>
+<ul>
+<li><a href="https://github.com/Lumi-sg/CodeWars/blob/main/C%23/7%20Kyu/HighestandLowest.cs">Highest and Lowest of a string</a></li>
+<li><a href="https://github.com/Lumi-sg/CodeWars/blob/main/C%23/7%20Kyu/Exes%20and%20Ohs.cs">Exes and Ohs</a></li>
+<li><a href="https://github.com/Lumi-sg/CodeWars/blob/main/C%23/7%20Kyu/String%20ends%20with%3F.cs">String Ends with?</a></li>
+<li><a href="https://github.com/Lumi-sg/CodeWars/blob/main/C%23/7%20Kyu/Vowel%20Counter.cs">Vowel Counter</a></li>
+<li><a href="https://github.com/Lumi-sg/CodeWars/blob/main/C%23/7%20Kyu/Casing%20Strings.cs">Casing Strings</a></li>
+<li><a href="https://github.com/Lumi-sg/CodeWars/blob/main/C%23/7%20Kyu/Friend%20or%20Foe%3F.cs">Friend or Foe</a></li>
+<li><a href="https://github.com/Lumi-sg/CodeWars/blob/main/C%23/7%20Kyu/List%20Filtering.cs">List Filtering</a></li>
+<li><a href="https://github.com/Lumi-sg/CodeWars/blob/main/C%23/7%20Kyu/Is%20This%20a%20Triangle.cs">Is This a Triangle?</a></li>
+<li><a href="https://github.com/Lumi-sg/CodeWars/blob/main/C%23/7%20Kyu/String%20Drills:%20Repeater.cs">String Drills: Repeater</a></li>
+<li><a href="https://github.com/Lumi-sg/CodeWars/blob/main/C%23/7%20Kyu/Isograms.cs">Isograms</a></li>
+<li><a href="https://github.com/Lumi-sg/CodeWars/blob/main/C%23/7%20Kyu/Sort%20Numbers.cs">Sort Numbers</a></li>
+<li><a href="https://github.com/Lumi-sg/CodeWars/blob/main/C%23/7%20Kyu/Alternate%20Case.cs">Alternate Case</a></li>
+<li><a href="https://github.com/Lumi-sg/CodeWars/blob/main/C%23/7%20Kyu/Bumps%20in%20the%20Road.cs">Bumps in the Road</a></li>
+</ul>
+
+  </details>
+
+<details>
+<summary>8 Kyu:</summary>
+<ul>
+<li><a href="https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/CountingSheep.cs">Counting Sheep</a></li>
+<li><a href="https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/NeedleHaystack.cs">Needle in a Haystack</a></li>
+<li><a href="https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/ReturnNegative.cs">Return a Negative Number</a></li>
+<li><a href="https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/Returning%20Strings.cs">Returning Strings</a></li>
+<li><a href="https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/Sum%20of%20positive.cs">Sum of Positive</a></li>
+<li><a href="https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/Square(n)Sum.cs">Square(n)Sum</a></li>
+<li><a href="https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/Remove%20String%20Spaces.cs">Remove String Spaces</a></li>
+<li><a href="https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/Remove%20First%20and%20Last%20Character.cs">Remove First and Last Character</a></li>
+<li><a href="https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/Fake%20Binary.cs">Fake Binary</a></li>
+<li><a href="https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/Find%20Smallest%20Int%20in%20Array.cs">Find Smallest Int in Array</a></li>
+<li><a href="https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/String%20Repeat.cs">String Repeat</a></li>
+<li><a href="https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/Even%20or%20Odd.cs">Even or Odd</a></li>
+<li><a href="https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/Convert%20a%20String%20to%20a%20Number.cs">Convert a String to a Number</a></li>
+<li><a href="https://github.com/Lumi-sg/CodeWars/blob/main/C%23/8%20Kyu/Lost%20Without%20a%20Map.cs">Lost Without a Map</a></li>
+</ul>
+  </details>
+
