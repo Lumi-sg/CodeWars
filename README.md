@@ -1,8 +1,5 @@
 # CodeWars
 
-These are saved copies of the katas I've completed on
-[codewars.com](https://www.codewars.com/).
-
 ## Profile:
 
 [![Profile badge](https://www.codewars.com/users/Lumi_s/badges/large)](https://www.codewars.com/users/Lumi_s)
