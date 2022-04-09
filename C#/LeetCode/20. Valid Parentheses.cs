@@ -1,8 +1,6 @@
 public class Solution {
-    public bool IsValid(string s) {
-        if (s == null || s == string.Empty)
-            return true;
-        
+    public bool IsValid(string s) 
+    {
         Dictionary<char, char> charDict = new Dictionary<char, char>();
         Stack<char> stack = new Stack<char>();
         
