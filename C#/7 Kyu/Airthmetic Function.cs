@@ -12,8 +12,8 @@ public class Kata
             return a - b;
         case "multiply":
             return a * b;
-        case "divide";
-            return a / b:
+        case "divide":
+            return a / b;
         default:
             return 0;
     }
