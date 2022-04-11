@@ -13,9 +13,9 @@
 |---|---|
 ### [Diagrams](https://github.com/Lumi-sg/CodeWars-LeetCode/tree/main/Diagrams/CodeWars)
 # Leetcode
-[Profile](https://leetcode.com/Lumi-sg/)
+### [Profile](https://leetcode.com/Lumi-sg/)
 
-[Diagrams](https://github.com/Lumi-sg/CodeWars-LeetCode/tree/main/Diagrams/LeetCode)
+### [Diagrams](https://github.com/Lumi-sg/CodeWars-LeetCode/tree/main/Diagrams/LeetCode)
 
 |[C#](https://github.com/Lumi-sg/CodeWars-LeetCode/tree/main/C%23/LeetCode)|[Python](https://github.com/Lumi-sg/CodeWars-LeetCode/tree/main/Python/LeetCode)|
 |---|---|
