@@ -1,4 +1,4 @@
-#
+# type: ignore
 # @lc app=leetcode id=100 lang=python3
 #
 # [100] Same Tree

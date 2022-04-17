@@ -13,11 +13,14 @@
 |---|---|
 ### [Diagrams](https://github.com/Lumi-sg/CodeWars-LeetCode/tree/main/Diagrams/CodeWars)
 # Leetcode
+
+|[C#](https://github.com/Lumi-sg/CodeWars-LeetCode/tree/main/LeetCode/C%23)|[Python](https://github.com/Lumi-sg/CodeWars-LeetCode/tree/main/LeetCode/Python)|
+|---|---|
+
 ### [Profile](https://leetcode.com/Lumi-sg/)
 
 ### [Diagrams](https://github.com/Lumi-sg/CodeWars-LeetCode/tree/main/Diagrams/LeetCode)
 
-|[C#](https://github.com/Lumi-sg/CodeWars-LeetCode/tree/main/LeetCode/C%23)|[Python](https://github.com/Lumi-sg/CodeWars-LeetCode/tree/main/LeetCode/Python)|
-|---|---|
+
 
 
